@@ -1,0 +1,15 @@
+﻿Build started 6/26/2024 3:58:19 PM.
+     1>Project "C:\Users\DELL\documents\visual studio 2010\Projects\CG_Porject2\CG_Porject2\CG_Porject2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\CG_Porject2.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\dell\documents\visual studio 2010\projects\cg_porject2\cg_porject2\main.cpp(985): error C2059: syntax error : 'bad suffix on number'
+     1>c:\users\dell\documents\visual studio 2010\projects\cg_porject2\cg_porject2\main.cpp(986): error C2146: syntax error : missing ')' before identifier 'f'
+     1>c:\users\dell\documents\visual studio 2010\projects\cg_porject2\cg_porject2\main.cpp(986): error C2059: syntax error : ')'
+     1>Done Building Project "C:\Users\DELL\documents\visual studio 2010\Projects\CG_Porject2\CG_Porject2\CG_Porject2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.85
